@@ -1,25 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        table, th, td {
-            border: 1px solid black;
-        }
-        th, td {
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Agendamento de Consulta Médica</h1>
 
 <p>Este projeto permite que os usuários se registrem, façam login, agendem consultas com diferentes médicos e mudem suas senhas.</p>
