@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Agendamento de Consulta Médica</title>
     <style>
         table {
             width: 100%;
