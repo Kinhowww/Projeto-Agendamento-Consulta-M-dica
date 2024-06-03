@@ -34,14 +34,24 @@
         <th>Horário</th>
     </tr>
     <tr>
-        <td>Dr. Ana, Pediatra</td>
+        <td>Dr. Ana Livia Cavalvante, Pediatra</td>
         <td>2024-06-15</td>
-        <td>10:00</td>
+        <td>9:00</td>
     </tr>
     <tr>
-        <td>Dr. Pedro, Neurologista</td>
+        <td>Dr. Marcos Vinicius Francisco, Neurologista</td>
         <td>2024-06-16</td>
+        <td>10:00</td>
+    </tr>
+ <tr>
+        <td>Dr. Maria Julia Brum, Dermatologista </td>
+        <td>2024-06-17</td>
         <td>14:00</td>
+    </tr>
+ <tr>
+        <td>Dr. Pedro henrique Bertazzolli, Oftalmologista</td>
+        <td>2024-06-18</td>
+        <td>15:00</td>
     </tr>
 </table>
 
