@@ -79,3 +79,20 @@
 
 </body>
 </html>
+
+<tr>
+        <td>Ana Livia Cavalvante</td>
+        <td><a href="https://github.com/AnaliviaCavalcante" target="_blank">joaosilva</a></td>
+    </tr>
+    <tr>
+        <td>Marcos Vinicius Francisco</td>
+        <td>https://www.linkedin.com/in/marcosvfrancisco/</td>
+        <td><a href="" target="_blank">mariaoliveira</a></td>
+    </tr><tr>
+        <td>Maria Julia Brum da Silveira</td>
+        <td><a href="https://github.com/majulia1808" target="_blank">joaosilva</a></td>
+    </tr>
+    <tr>
+        <td>Pedro Henrique Bertazzolli</td>
+        <td><a href="https://github.com/PedroAndrade003" target="_blank">mariaoliveira</a></td>
+    </tr>
