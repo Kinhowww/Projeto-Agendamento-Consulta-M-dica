@@ -79,33 +79,3 @@
 
 </body>
 </html>
-
-<h2>Contribuintes</h2>
-
-<div class="contributors">
-    <div class="contributor">
-        <img src="https://github.com/joaosilva.png" alt="João Silva">
-        <h3>Ana Livia Cavalvante</h3>
-        <p><a href="https://github.com/joaosilva" target="_blank">GitHub Profile</a></p>
-        <p>joao.silva@example.com</p>
-    </div>
-    <div class="contributor">
-        <img src="https://github.com/mariaoliveira.png" alt="Maria Oliveira">
-        <h3>Marcos Vinicius Francisco</h3>
-        <p><a href="https://github.com/mariaoliveira" target="_blank">GitHub Profile</a></p>
-</div>
-<tr>
-        <td>Ana Livia Cavalvante</td>
-        <td><a href="https://github.com/AnaliviaCavalcante" target="_blank">joaosilva</a></td>
-    </tr>
-    <tr>
-        <td>Marcos Vinicius Francisco</td>
-        <td><a href="" target="_blank">mariaoliveira</a></td>
-    </tr><tr>
-        <td>Maria Julia Brum da Silveira</td>
-        <td><a href="https://github.com/majulia1808" target="_blank">joaosilva</a></td>
-    </tr>
-    <tr>
-        <td>Pedro Henrique Bertazzolli</td>
-        <td><a href="https://github.com/PedroAndrade003" target="_blank">mariaoliveira</a></td>
-    </tr>
