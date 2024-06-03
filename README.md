@@ -112,22 +112,16 @@
 <body>
 
 <h2>Contribuintes</h2>
-
-<div class="contributors">
     <div class="contributor">
-        <a href="https://github.com/PedroAndrade003" target="_blank">Pedro Andrade</a>
-        <p>pedro.andrade@example.com</p>
+        <a href="https://github.com/AnaliviaCavalcante" target="_blank">Analívia Cavalcante</a>
+    </div>
+    <div class="contributor">
+        <a href="https://github.com/Kinhowww" target="_blank">Kinhowww</a>
     </div>
     <div class="contributor">
         <a href="https://github.com/majulia1808" target="_blank">Maria Júlia</a>
-        <p>maria.julia@example.com</p>
     </div>
     <div class="contributor">
-        <a href="https://github.com/AnaliviaCavalcante" target="_blank">Analívia Cavalcante</a>
-        <p>analivia.cavalcante@example.com</p>
-    </div>
-    <div class="contributor">
-        <a href="https://github.com/Kinhowww" target="_blank">Kin How</a>
-        <p>kin.how@example.com</p>
+        <a href="https://github.com/PedroAndrade003" target="_blank">Pedro Andrade</a>
     </div>
 </div>
