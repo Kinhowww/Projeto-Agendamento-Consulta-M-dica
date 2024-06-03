@@ -94,20 +94,18 @@
         }
         .contributor {
             text-align: center;
-        }
-        .contributor img {
-            border-radius: 50%;
-            width: 80px;
-            height: 80px;
-            border: 2px solid #ddd;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background-color: #fff;
         }
         .contributor a {
             text-decoration: none;
             color: #0366d6;
             font-weight: bold;
         }
-        .contributor a:hover {
-            text-decoration: underline;
+        .contributor p {
+            margin: 5px 0;
         }
     </style>
 </head>
@@ -117,27 +115,19 @@
 
 <div class="contributors">
     <div class="contributor">
-        <a href="https://github.com/PedroAndrade003" target="_blank">
-            <img src="https://github.com/PedroAndrade003.png" alt="Pedro Andrade">
-            <p>Pedro Andrade</p>
-        </a>
+        <a href="https://github.com/PedroAndrade003" target="_blank">Pedro Andrade</a>
+        <p>pedro.andrade@example.com</p>
     </div>
     <div class="contributor">
-        <a href="https://github.com/majulia1808" target="_blank">
-            <img src="https://github.com/majulia1808.png" alt="Maria Júlia">
-            <p>Maria Júlia</p>
-        </a>
+        <a href="https://github.com/majulia1808" target="_blank">Maria Júlia</a>
+        <p>maria.julia@example.com</p>
     </div>
     <div class="contributor">
-        <a href="https://github.com/AnaliviaCavalcante" target="_blank">
-            <img src="https://github.com/AnaliviaCavalcante.png" alt="Analívia Cavalcante">
-            <p>Analívia Cavalcante</p>
-        </a>
+        <a href="https://github.com/AnaliviaCavalcante" target="_blank">Analívia Cavalcante</a>
+        <p>analivia.cavalcante@example.com</p>
     </div>
     <div class="contributor">
-        <a href="https://github.com/Kinhowww" target="_blank">
-            <img src="https://github.com/Kinhowww.png" alt="Kin How">
-            <p>Kin How</p>
-        </a>
+        <a href="https://github.com/Kinhowww" target="_blank">Kin How</a>
+        <p>kin.how@example.com</p>
     </div>
 </div>
