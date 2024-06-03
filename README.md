@@ -80,40 +80,6 @@
 </body>
 </html>
 
-<title>Contribuintes</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .contributors {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        .contributor {
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            padding: 10px;
-            width: 50px;
-            text-align: center;
-            background-color: #f9f9f9;
-        }
-        .contributor img {
-            border-radius: 50%;
-            width: 100px;
-            height: 100px;
-        }
-        .contributor h3 {
-            margin: 10px 0 5px;
-        }
-        .contributor a {
-            text-decoration: none;
-            color: #0366d6;
-        }
-    </style>
-</head>
-<body>
-
 <h2>Contribuintes</h2>
 
 <div class="contributors">
@@ -134,7 +100,6 @@
     </tr>
     <tr>
         <td>Marcos Vinicius Francisco</td>
-        <td>https://www.linkedin.com/in/marcosvfrancisco/</td>
         <td><a href="" target="_blank">mariaoliveira</a></td>
     </tr><tr>
         <td>Maria Julia Brum da Silveira</td>
