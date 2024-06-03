@@ -76,39 +76,6 @@
 <h2>Troca de Senha</h2>
 
 <p>Para trocar a senha, forneça os 3 últimos dígitos do seu CPF para confirmação e a nova senha.</p>
-
-</body>
-</html>
-<title>Contribuintes</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            padding: 20px;
-        }
-        .contributors {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-        .contributor {
-            text-align: center;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            background-color: #fff;
-        }
-        .contributor a {
-            text-decoration: none;
-            color: #0366d6;
-            font-weight: bold;
-        }
-        .contributor p {
-            margin: 5px 0;
-        }
-    </style>
-</head>
 <body>
 
 <h2>Contribuintes</h2>
