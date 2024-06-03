@@ -79,3 +79,65 @@
 
 </body>
 </html>
+<title>Contribuintes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+        .contributors {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .contributor {
+            text-align: center;
+        }
+        .contributor img {
+            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            border: 2px solid #ddd;
+        }
+        .contributor a {
+            text-decoration: none;
+            color: #0366d6;
+            font-weight: bold;
+        }
+        .contributor a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Contribuintes</h2>
+
+<div class="contributors">
+    <div class="contributor">
+        <a href="https://github.com/PedroAndrade003" target="_blank">
+            <img src="https://github.com/PedroAndrade003.png" alt="Pedro Andrade">
+            <p>Pedro Andrade</p>
+        </a>
+    </div>
+    <div class="contributor">
+        <a href="https://github.com/majulia1808" target="_blank">
+            <img src="https://github.com/majulia1808.png" alt="Maria Júlia">
+            <p>Maria Júlia</p>
+        </a>
+    </div>
+    <div class="contributor">
+        <a href="https://github.com/AnaliviaCavalcante" target="_blank">
+            <img src="https://github.com/AnaliviaCavalcante.png" alt="Analívia Cavalcante">
+            <p>Analívia Cavalcante</p>
+        </a>
+    </div>
+    <div class="contributor">
+        <a href="https://github.com/Kinhowww" target="_blank">
+            <img src="https://github.com/Kinhowww.png" alt="Kin How">
+            <p>Kin How</p>
+        </a>
+    </div>
+</div>
