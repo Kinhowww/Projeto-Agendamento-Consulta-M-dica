@@ -80,6 +80,54 @@
 </body>
 </html>
 
+<title>Contribuintes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .contributors {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .contributor {
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 10px;
+            width: 200px;
+            text-align: center;
+            background-color: #f9f9f9;
+        }
+        .contributor img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+        .contributor h3 {
+            margin: 10px 0 5px;
+        }
+        .contributor a {
+            text-decoration: none;
+            color: #0366d6;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Contribuintes</h2>
+
+<div class="contributors">
+    <div class="contributor">
+        <img src="https://github.com/joaosilva.png" alt="João Silva">
+        <h3>Ana Livia Cavalvante</h3>
+        <p><a href="https://github.com/joaosilva" target="_blank">GitHub Profile</a></p>
+        <p>joao.silva@example.com</p>
+    </div>
+    <div class="contributor">
+        <img src="https://github.com/mariaoliveira.png" alt="Maria Oliveira">
+        <h3>Marcos Vinicius Francisco</h3>
+        <p><a href="https://github.com/mariaoliveira" target="_blank">GitHub Profile</a></p>
+</div>
 <tr>
         <td>Ana Livia Cavalvante</td>
         <td><a href="https://github.com/AnaliviaCavalcante" target="_blank">joaosilva</a></td>
