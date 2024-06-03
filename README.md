@@ -49,7 +49,7 @@
         <td>14:00</td>
     </tr>
  <tr>
-        <td>Dr. Pedro henrique Bertazzolli, Oftalmologista</td>
+        <td>Dr. Pedro Andrade, Oftalmologista</td>
         <td>2024-06-18</td>
         <td>15:00</td>
     </tr>
